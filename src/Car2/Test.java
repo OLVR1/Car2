@@ -17,3 +17,5 @@ public class Test {
             System.out.println("\n" + "Nummerpladen er ens");
     }
 }
+
+//test
